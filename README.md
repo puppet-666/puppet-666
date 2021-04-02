@@ -17,3 +17,6 @@
 <a href="https://github.com/puppet-666/xifan">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=puppet-666&repo=xifan" />
 </a>
+<a href="https://github.com/sword-x-shield/sword-cli">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?sword-x-shield&repo=sword-cli" />
+</a>
