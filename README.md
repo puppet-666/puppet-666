@@ -1,4 +1,4 @@
-### Hi I'm puppet-666 👋
+### Hi I'm puppet-666 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
 "Blue sky high hanging my dreams"
 
 - ✉️ Ping me by [Email](mailto:1063771217@qq.com)
